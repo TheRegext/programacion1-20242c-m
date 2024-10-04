@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1728054071 source:e:\github\educacion\utn\2024\2c\programacion1-20242c-m\semana 09\juego25\main.cpp
+	<iostream>
+	<ctime>
+	"menu.h"
+
+1728054071 e:\github\educacion\utn\2024\2c\programacion1-20242c-m\semana 09\juego25\menu.h
+
+1728054093 source:e:\github\educacion\utn\2024\2c\programacion1-20242c-m\semana 09\juego25\menu.cpp
+	<iostream>
+	"menu.h"
+	"juego.h"
+
+1728054071 e:\github\educacion\utn\2024\2c\programacion1-20242c-m\semana 09\juego25\juego.h
+
+1728054085 source:e:\github\educacion\utn\2024\2c\programacion1-20242c-m\semana 09\juego25\juego.cpp
+	<iostream>
+	"juego.h"
+
