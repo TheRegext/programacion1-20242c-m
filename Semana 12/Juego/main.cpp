@@ -4,10 +4,10 @@
 #include<ctime>
 #include<cstring>
 
-using namespace std;
-
 #include "funciones.h"
 #include "juego.h"
+
+using namespace std;
 
 int main(){
    string jugador;
@@ -15,6 +15,11 @@ int main(){
    string nombres[3];
    int tablaPuntajes[3]={0};
    int opc;
+   
+   srand(time(NULL));
+   
+   
+   
    while(true){
         system("cls");
         cout<<"***TP VECTORES Y FUNCIONES***"<<endl;

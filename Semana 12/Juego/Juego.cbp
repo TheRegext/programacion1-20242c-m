@@ -32,13 +32,12 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="funciones.cpp" />
 		<Unit filename="funciones.h" />
+		<Unit filename="juego.cpp" />
 		<Unit filename="juego.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
-			<code_completion />
-			<envvars />
-			<debugger />
 			<lib_finder disable_auto="1" />
 		</Extensions>
 	</Project>

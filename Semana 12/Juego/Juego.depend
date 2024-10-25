@@ -12,3 +12,26 @@
 
 1729860223 c:\users\danie\documents\curso ejemplos c\pr1\juego\juego.h
 
+1729868309 source:e:\github\educacion\utn\2024\2c\programacion1-20242c-m\semana 12\juego\funciones.cpp
+	<iostream>
+	"funciones.h"
+
+1729868192 e:\github\educacion\utn\2024\2c\programacion1-20242c-m\semana 12\juego\funciones.h
+
+1729868532 source:e:\github\educacion\utn\2024\2c\programacion1-20242c-m\semana 12\juego\juego.cpp
+	<iostream>
+	"funciones.h"
+	"juego.h"
+
+1729868617 e:\github\educacion\utn\2024\2c\programacion1-20242c-m\semana 12\juego\juego.h
+	<string>
+
+1729868246 source:e:\github\educacion\utn\2024\2c\programacion1-20242c-m\semana 12\juego\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cstring>
+	"funciones.h"
+	"juego.h"
+
