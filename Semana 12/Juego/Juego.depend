@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1729859590 source:c:\users\danie\documents\curso ejemplos c\pr1\juego\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cstring>
+	"funciones.h"
+	"juego.h"
+
+1729857980 c:\users\danie\documents\curso ejemplos c\pr1\juego\funciones.h
+
+1729860223 c:\users\danie\documents\curso ejemplos c\pr1\juego\juego.h
+
