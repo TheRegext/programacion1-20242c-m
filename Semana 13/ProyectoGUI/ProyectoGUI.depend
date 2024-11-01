@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1730468267 source:e:\github\educacion\utn\2024\2c\programacion1-20242c-m\semana 13\proyectogui\main.cpp
+	<iostream>
+	"menu.h"
+	"rlutil.h"
+
+1730470646 e:\github\educacion\utn\2024\2c\programacion1-20242c-m\semana 13\proyectogui\menu.h
+
+1730469780 source:e:\github\educacion\utn\2024\2c\programacion1-20242c-m\semana 13\proyectogui\menu.cpp
+	<iostream>
+	"menu.h"
+	"rlutil.h"
+
+1730467201 e:\github\educacion\utn\2024\2c\programacion1-20242c-m\semana 13\proyectogui\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
